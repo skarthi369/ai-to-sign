@@ -1,0 +1,8 @@
+speechrecognition
+numpy
+matplotlib
+opencv-python
+easygui
+pillow
+pyttsx3       # For text-to-speech
+playsound     # For audio playback
